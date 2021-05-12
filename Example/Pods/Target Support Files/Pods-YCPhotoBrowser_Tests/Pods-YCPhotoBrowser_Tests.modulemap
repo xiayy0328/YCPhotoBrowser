@@ -1,0 +1,6 @@
+framework module Pods_YCPhotoBrowser_Tests {
+  umbrella header "Pods-YCPhotoBrowser_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -15,6 +15,39 @@
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
+		70F94463264B572B0098A9BF /* video_0.MP4 in Resources */ = {isa = PBXBuildFile; fileRef = 70F9445F264B572A0098A9BF /* video_0.MP4 */; };
+		70F94464264B572B0098A9BF /* Photos.plist in Resources */ = {isa = PBXBuildFile; fileRef = 70F94460264B572B0098A9BF /* Photos.plist */; };
+		70F94465264B572B0098A9BF /* video_2.MP4 in Resources */ = {isa = PBXBuildFile; fileRef = 70F94461264B572B0098A9BF /* video_2.MP4 */; };
+		70F94466264B572B0098A9BF /* video_1.MP4 in Resources */ = {isa = PBXBuildFile; fileRef = 70F94462264B572B0098A9BF /* video_1.MP4 */; };
+		70F94484264B57B60098A9BF /* LocalImageSmoothZoomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F94467264B57B00098A9BF /* LocalImageSmoothZoomViewController.swift */; };
+		70F94485264B57B60098A9BF /* VideoZoomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F94468264B57B00098A9BF /* VideoZoomCell.swift */; };
+		70F94486264B57B60098A9BF /* CustomAnimatedTranstioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F94469264B57B10098A9BF /* CustomAnimatedTranstioning.swift */; };
+		70F94487264B57B60098A9BF /* BaseCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F9446A264B57B10098A9BF /* BaseCollectionViewCell.swift */; };
+		70F94488264B57B60098A9BF /* CustomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F9446B264B57B10098A9BF /* CustomViewController.swift */; };
+		70F94489264B57B60098A9BF /* KingfisherImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F9446C264B57B10098A9BF /* KingfisherImageViewController.swift */; };
+		70F9448A264B57B60098A9BF /* MoreDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F9446D264B57B10098A9BF /* MoreDetailViewController.swift */; };
+		70F9448B264B57B60098A9BF /* NumberPageIndicatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F9446E264B57B10098A9BF /* NumberPageIndicatorViewController.swift */; };
+		70F9448C264B57B60098A9BF /* PhotoProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F9446F264B57B20098A9BF /* PhotoProgressView.swift */; };
+		70F9448D264B57B60098A9BF /* SDWebImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F94470264B57B20098A9BF /* SDWebImageViewController.swift */; };
+		70F9448E264B57B60098A9BF /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F94471264B57B20098A9BF /* HomeViewController.swift */; };
+		70F9448F264B57B60098A9BF /* NameSpaceWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F94472264B57B20098A9BF /* NameSpaceWrapper.swift */; };
+		70F94490264B57B60098A9BF /* MultipleSectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F94473264B57B20098A9BF /* MultipleSectionViewController.swift */; };
+		70F94491264B57B60098A9BF /* VerticalBrowseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F94474264B57B30098A9BF /* VerticalBrowseViewController.swift */; };
+		70F94492264B57B60098A9BF /* VideoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F94475264B57B30098A9BF /* VideoCell.swift */; };
+		70F94493264B57B60098A9BF /* VideoPhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F94476264B57B30098A9BF /* VideoPhotoViewController.swift */; };
+		70F94494264B57B60098A9BF /* DefaultPageIndicatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F94477264B57B30098A9BF /* DefaultPageIndicatorViewController.swift */; };
+		70F94495264B57B60098A9BF /* DataSourceAppendViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F94478264B57B30098A9BF /* DataSourceAppendViewController.swift */; };
+		70F94496264B57B60098A9BF /* ResourceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F94479264B57B40098A9BF /* ResourceModel.swift */; };
+		70F94497264B57B60098A9BF /* LocalImageZoomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F9447A264B57B40098A9BF /* LocalImageZoomViewController.swift */; };
+		70F94498264B57B60098A9BF /* PushNextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F9447B264B57B40098A9BF /* PushNextViewController.swift */; };
+		70F94499264B57B60098A9BF /* DataSourceDeleteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F9447C264B57B40098A9BF /* DataSourceDeleteViewController.swift */; };
+		70F9449A264B57B60098A9BF /* LocalImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F9447D264B57B40098A9BF /* LocalImageViewController.swift */; };
+		70F9449B264B57B60098A9BF /* LoadingProgressViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F9447E264B57B50098A9BF /* LoadingProgressViewController.swift */; };
+		70F9449C264B57B60098A9BF /* MultipleCellViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F9447F264B57B50098A9BF /* MultipleCellViewController.swift */; };
+		70F9449D264B57B60098A9BF /* UICollectionViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F94480264B57B50098A9BF /* UICollectionViewExtension.swift */; };
+		70F9449E264B57B60098A9BF /* GIFViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F94481264B57B50098A9BF /* GIFViewController.swift */; };
+		70F9449F264B57B60098A9BF /* BaseCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F94482264B57B50098A9BF /* BaseCollectionViewController.swift */; };
+		70F944A0264B57B60098A9BF /* UITableViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F94483264B57B60098A9BF /* UITableViewExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,9 +75,42 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		65472A2DDA23CFC251890E1F /* Pods_YCPhotoBrowser_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YCPhotoBrowser_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		70EE2D49CD660D70A5BF0B27 /* YCPhotoBrowser.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = YCPhotoBrowser.podspec; path = ../YCPhotoBrowser.podspec; sourceTree = "<group>"; };
-		756390D3F4DBACEB581285F7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		8FE776970D222D0660DC8F28 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		70EE2D49CD660D70A5BF0B27 /* YCPhotoBrowser.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = YCPhotoBrowser.podspec; path = ../YCPhotoBrowser.podspec; sourceTree = "<group>"; };
+		70F9445F264B572A0098A9BF /* video_0.MP4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video_0.MP4; sourceTree = "<group>"; };
+		70F94460264B572B0098A9BF /* Photos.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Photos.plist; sourceTree = "<group>"; };
+		70F94461264B572B0098A9BF /* video_2.MP4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video_2.MP4; sourceTree = "<group>"; };
+		70F94462264B572B0098A9BF /* video_1.MP4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video_1.MP4; sourceTree = "<group>"; };
+		70F94467264B57B00098A9BF /* LocalImageSmoothZoomViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocalImageSmoothZoomViewController.swift; sourceTree = "<group>"; };
+		70F94468264B57B00098A9BF /* VideoZoomCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoZoomCell.swift; sourceTree = "<group>"; };
+		70F94469264B57B10098A9BF /* CustomAnimatedTranstioning.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomAnimatedTranstioning.swift; sourceTree = "<group>"; };
+		70F9446A264B57B10098A9BF /* BaseCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseCollectionViewCell.swift; sourceTree = "<group>"; };
+		70F9446B264B57B10098A9BF /* CustomViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomViewController.swift; sourceTree = "<group>"; };
+		70F9446C264B57B10098A9BF /* KingfisherImageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KingfisherImageViewController.swift; sourceTree = "<group>"; };
+		70F9446D264B57B10098A9BF /* MoreDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoreDetailViewController.swift; sourceTree = "<group>"; };
+		70F9446E264B57B10098A9BF /* NumberPageIndicatorViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumberPageIndicatorViewController.swift; sourceTree = "<group>"; };
+		70F9446F264B57B20098A9BF /* PhotoProgressView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoProgressView.swift; sourceTree = "<group>"; };
+		70F94470264B57B20098A9BF /* SDWebImageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SDWebImageViewController.swift; sourceTree = "<group>"; };
+		70F94471264B57B20098A9BF /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		70F94472264B57B20098A9BF /* NameSpaceWrapper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NameSpaceWrapper.swift; sourceTree = "<group>"; };
+		70F94473264B57B20098A9BF /* MultipleSectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MultipleSectionViewController.swift; sourceTree = "<group>"; };
+		70F94474264B57B30098A9BF /* VerticalBrowseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VerticalBrowseViewController.swift; sourceTree = "<group>"; };
+		70F94475264B57B30098A9BF /* VideoCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoCell.swift; sourceTree = "<group>"; };
+		70F94476264B57B30098A9BF /* VideoPhotoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoPhotoViewController.swift; sourceTree = "<group>"; };
+		70F94477264B57B30098A9BF /* DefaultPageIndicatorViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DefaultPageIndicatorViewController.swift; sourceTree = "<group>"; };
+		70F94478264B57B30098A9BF /* DataSourceAppendViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataSourceAppendViewController.swift; sourceTree = "<group>"; };
+		70F94479264B57B40098A9BF /* ResourceModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResourceModel.swift; sourceTree = "<group>"; };
+		70F9447A264B57B40098A9BF /* LocalImageZoomViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocalImageZoomViewController.swift; sourceTree = "<group>"; };
+		70F9447B264B57B40098A9BF /* PushNextViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PushNextViewController.swift; sourceTree = "<group>"; };
+		70F9447C264B57B40098A9BF /* DataSourceDeleteViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataSourceDeleteViewController.swift; sourceTree = "<group>"; };
+		70F9447D264B57B40098A9BF /* LocalImageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocalImageViewController.swift; sourceTree = "<group>"; };
+		70F9447E264B57B50098A9BF /* LoadingProgressViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoadingProgressViewController.swift; sourceTree = "<group>"; };
+		70F9447F264B57B50098A9BF /* MultipleCellViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MultipleCellViewController.swift; sourceTree = "<group>"; };
+		70F94480264B57B50098A9BF /* UICollectionViewExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UICollectionViewExtension.swift; sourceTree = "<group>"; };
+		70F94481264B57B50098A9BF /* GIFViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GIFViewController.swift; sourceTree = "<group>"; };
+		70F94482264B57B50098A9BF /* BaseCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseCollectionViewController.swift; sourceTree = "<group>"; };
+		70F94483264B57B60098A9BF /* UITableViewExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITableViewExtension.swift; sourceTree = "<group>"; };
+		756390D3F4DBACEB581285F7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		8FE776970D222D0660DC8F28 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		A06BBF9F3FB5DBB79B85AE84 /* Pods-YCPhotoBrowser_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YCPhotoBrowser_Example.debug.xcconfig"; path = "Target Support Files/Pods-YCPhotoBrowser_Example/Pods-YCPhotoBrowser_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		AF4A32C1F125B0D7D2D869C9 /* Pods-YCPhotoBrowser_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YCPhotoBrowser_Example.release.xcconfig"; path = "Target Support Files/Pods-YCPhotoBrowser_Example/Pods-YCPhotoBrowser_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -102,11 +168,13 @@
 		607FACD21AFB9204008FA782 /* Example for YCPhotoBrowser */ = {
 			isa = PBXGroup;
 			children = (
+				70F9445E264B57020098A9BF /* Classes */,
 				607FACD51AFB9204008FA782 /* AppDelegate.swift */,
 				607FACD71AFB9204008FA782 /* ViewController.swift */,
 				607FACD91AFB9204008FA782 /* Main.storyboard */,
 				607FACDC1AFB9204008FA782 /* Images.xcassets */,
 				607FACDE1AFB9204008FA782 /* LaunchScreen.xib */,
+				70F9445D264B56F80098A9BF /* Resources */,
 				607FACD31AFB9204008FA782 /* Supporting Files */,
 			);
 			name = "Example for YCPhotoBrowser";
@@ -148,6 +216,53 @@
 			name = "Podspec Metadata";
 			sourceTree = "<group>";
 		};
+		70F9445D264B56F80098A9BF /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				70F94460264B572B0098A9BF /* Photos.plist */,
+				70F9445F264B572A0098A9BF /* video_0.MP4 */,
+				70F94462264B572B0098A9BF /* video_1.MP4 */,
+				70F94461264B572B0098A9BF /* video_2.MP4 */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		70F9445E264B57020098A9BF /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				70F9446A264B57B10098A9BF /* BaseCollectionViewCell.swift */,
+				70F94482264B57B50098A9BF /* BaseCollectionViewController.swift */,
+				70F94469264B57B10098A9BF /* CustomAnimatedTranstioning.swift */,
+				70F9446B264B57B10098A9BF /* CustomViewController.swift */,
+				70F94478264B57B30098A9BF /* DataSourceAppendViewController.swift */,
+				70F9447C264B57B40098A9BF /* DataSourceDeleteViewController.swift */,
+				70F94477264B57B30098A9BF /* DefaultPageIndicatorViewController.swift */,
+				70F94481264B57B50098A9BF /* GIFViewController.swift */,
+				70F94471264B57B20098A9BF /* HomeViewController.swift */,
+				70F9446C264B57B10098A9BF /* KingfisherImageViewController.swift */,
+				70F9446F264B57B20098A9BF /* PhotoProgressView.swift */,
+				70F9447E264B57B50098A9BF /* LoadingProgressViewController.swift */,
+				70F94467264B57B00098A9BF /* LocalImageSmoothZoomViewController.swift */,
+				70F9447D264B57B40098A9BF /* LocalImageViewController.swift */,
+				70F9447A264B57B40098A9BF /* LocalImageZoomViewController.swift */,
+				70F9446D264B57B10098A9BF /* MoreDetailViewController.swift */,
+				70F9447F264B57B50098A9BF /* MultipleCellViewController.swift */,
+				70F94473264B57B20098A9BF /* MultipleSectionViewController.swift */,
+				70F94472264B57B20098A9BF /* NameSpaceWrapper.swift */,
+				70F9446E264B57B10098A9BF /* NumberPageIndicatorViewController.swift */,
+				70F9447B264B57B40098A9BF /* PushNextViewController.swift */,
+				70F94479264B57B40098A9BF /* ResourceModel.swift */,
+				70F94470264B57B20098A9BF /* SDWebImageViewController.swift */,
+				70F94480264B57B50098A9BF /* UICollectionViewExtension.swift */,
+				70F94483264B57B60098A9BF /* UITableViewExtension.swift */,
+				70F94474264B57B30098A9BF /* VerticalBrowseViewController.swift */,
+				70F94475264B57B30098A9BF /* VideoCell.swift */,
+				70F94476264B57B30098A9BF /* VideoPhotoViewController.swift */,
+				70F94468264B57B00098A9BF /* VideoZoomCell.swift */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
 		E51DF810AF1E885388FED086 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -156,7 +271,6 @@
 				13F2A7A78227B4F29F58E816 /* Pods-YCPhotoBrowser_Tests.debug.xcconfig */,
 				5F7CD205161398D6453EFB31 /* Pods-YCPhotoBrowser_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -208,23 +322,25 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0830;
+				LastUpgradeCheck = 1250;
 				ORGANIZATIONNAME = CocoaPods;
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
-						LastSwiftMigration = 0900;
+						DevelopmentTeam = XP6NL86UXA;
+						LastSwiftMigration = 1250;
 					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
-						LastSwiftMigration = 0900;
+						DevelopmentTeam = XP6NL86UXA;
+						LastSwiftMigration = 1250;
 						TestTargetID = 607FACCF1AFB9204008FA782;
 					};
 				};
 			};
 			buildConfigurationList = 607FACCB1AFB9204008FA782 /* Build configuration list for PBXProject "YCPhotoBrowser" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
@@ -246,9 +362,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				70F94466264B572B0098A9BF /* video_1.MP4 in Resources */,
+				70F94463264B572B0098A9BF /* video_0.MP4 in Resources */,
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
+				70F94465264B572B0098A9BF /* video_2.MP4 in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
+				70F94464264B572B0098A9BF /* Photos.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,10 +389,14 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-YCPhotoBrowser_Example/Pods-YCPhotoBrowser_Example-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework",
+				"${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework",
 				"${BUILT_PRODUCTS_DIR}/YCPhotoBrowser/YCPhotoBrowser.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Kingfisher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SDWebImage.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YCPhotoBrowser.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -331,8 +455,37 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				70F9449E264B57B60098A9BF /* GIFViewController.swift in Sources */,
 				607FACD81AFB9204008FA782 /* ViewController.swift in Sources */,
+				70F94493264B57B60098A9BF /* VideoPhotoViewController.swift in Sources */,
+				70F94488264B57B60098A9BF /* CustomViewController.swift in Sources */,
+				70F94489264B57B60098A9BF /* KingfisherImageViewController.swift in Sources */,
+				70F94490264B57B60098A9BF /* MultipleSectionViewController.swift in Sources */,
+				70F9449A264B57B60098A9BF /* LocalImageViewController.swift in Sources */,
+				70F9449C264B57B60098A9BF /* MultipleCellViewController.swift in Sources */,
+				70F9448A264B57B60098A9BF /* MoreDetailViewController.swift in Sources */,
+				70F9449F264B57B60098A9BF /* BaseCollectionViewController.swift in Sources */,
+				70F94498264B57B60098A9BF /* PushNextViewController.swift in Sources */,
+				70F9448B264B57B60098A9BF /* NumberPageIndicatorViewController.swift in Sources */,
+				70F94497264B57B60098A9BF /* LocalImageZoomViewController.swift in Sources */,
+				70F94486264B57B60098A9BF /* CustomAnimatedTranstioning.swift in Sources */,
+				70F944A0264B57B60098A9BF /* UITableViewExtension.swift in Sources */,
 				607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */,
+				70F94495264B57B60098A9BF /* DataSourceAppendViewController.swift in Sources */,
+				70F94499264B57B60098A9BF /* DataSourceDeleteViewController.swift in Sources */,
+				70F94492264B57B60098A9BF /* VideoCell.swift in Sources */,
+				70F9449D264B57B60098A9BF /* UICollectionViewExtension.swift in Sources */,
+				70F94491264B57B60098A9BF /* VerticalBrowseViewController.swift in Sources */,
+				70F94485264B57B60098A9BF /* VideoZoomCell.swift in Sources */,
+				70F9448D264B57B60098A9BF /* SDWebImageViewController.swift in Sources */,
+				70F94494264B57B60098A9BF /* DefaultPageIndicatorViewController.swift in Sources */,
+				70F94484264B57B60098A9BF /* LocalImageSmoothZoomViewController.swift in Sources */,
+				70F94496264B57B60098A9BF /* ResourceModel.swift in Sources */,
+				70F94487264B57B60098A9BF /* BaseCollectionViewCell.swift in Sources */,
+				70F9449B264B57B60098A9BF /* LoadingProgressViewController.swift in Sources */,
+				70F9448F264B57B60098A9BF /* NameSpaceWrapper.swift in Sources */,
+				70F9448E264B57B60098A9BF /* HomeViewController.swift in Sources */,
+				70F9448C264B57B60098A9BF /* PhotoProgressView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -386,14 +539,17 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -419,7 +575,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -439,14 +595,17 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -465,7 +624,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -478,13 +637,15 @@
 			baseConfigurationReference = A06BBF9F3FB5DBB79B85AE84 /* Pods-YCPhotoBrowser_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XP6NL86UXA;
 				INFOPLIST_FILE = YCPhotoBrowser/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -493,13 +654,15 @@
 			baseConfigurationReference = AF4A32C1F125B0D7D2D869C9 /* Pods-YCPhotoBrowser_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XP6NL86UXA;
 				INFOPLIST_FILE = YCPhotoBrowser/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -507,6 +670,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 13F2A7A78227B4F29F58E816 /* Pods-YCPhotoBrowser_Tests.debug.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = XP6NL86UXA;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -520,7 +684,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/YCPhotoBrowser_Example.app/YCPhotoBrowser_Example";
 			};
 			name = Debug;
@@ -529,6 +693,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5F7CD205161398D6453EFB31 /* Pods-YCPhotoBrowser_Tests.release.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = XP6NL86UXA;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -538,7 +703,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/YCPhotoBrowser_Example.app/YCPhotoBrowser_Example";
 			};
 			name = Release;

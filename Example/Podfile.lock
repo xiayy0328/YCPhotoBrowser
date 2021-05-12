@@ -1,0 +1,29 @@
+PODS:
+  - Kingfisher (6.3.0)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - YCPhotoBrowser (0.1.0)
+
+DEPENDENCIES:
+  - Kingfisher
+  - SDWebImage
+  - YCPhotoBrowser (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  YCPhotoBrowser:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Kingfisher: 6c3df386db71d82c0817a429d2c9421a77396529
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  YCPhotoBrowser: d6b85f27233459ff8f927359f51ddc792a6e66b3
+
+PODFILE CHECKSUM: ebd75c20c7c9d4f5fc8497d719621c492545909b
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,6 @@
+framework module YCPhotoBrowser {
+  umbrella header "YCPhotoBrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}
